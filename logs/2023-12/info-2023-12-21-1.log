@@ -1,0 +1,11 @@
+2023-12-21 15:49:11.180 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 11748 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-21 15:49:11.182 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-21 15:49:11.743 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-21 15:49:11.747 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-21 15:49:11.748 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-21 15:49:11.749 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-21 15:49:11.781 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-21 15:49:11.781 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 570 ms
+2023-12-21 15:49:12.308 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-21 15:49:12.318 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-21 15:49:12.325 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.321 seconds (process running for 1.783)

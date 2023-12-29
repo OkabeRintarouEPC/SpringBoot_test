@@ -1,0 +1,2 @@
+2023-12-25 08:54:37.601 WARN [http-nio-8080-exec-10][AbstractHandlerExceptionResolver.java:227] - Resolved [org.springframework.web.context.request.async.AsyncRequestTimeoutException]
+2023-12-25 09:41:36.603 WARN [http-nio-8080-exec-10][AbstractHandlerExceptionResolver.java:227] - Resolved [org.springframework.web.context.request.async.AsyncRequestTimeoutException]

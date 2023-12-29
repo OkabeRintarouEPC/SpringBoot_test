@@ -1,0 +1,557 @@
+2023-12-27 08:41:44.905 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 20288 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 08:41:44.910 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 08:41:45.376 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 08:41:45.377 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 08:41:45.396 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 08:41:45.638 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 08:41:45.643 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 08:41:45.644 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 08:41:45.644 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 08:41:45.693 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 08:41:45.693 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 752 ms
+2023-12-27 08:41:45.809 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2023-12-27 08:51:59.432 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 15528 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 08:51:59.433 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 08:51:59.814 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 08:51:59.815 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 08:51:59.835 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 08:52:00.060 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 08:52:00.064 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 08:52:00.065 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 08:52:00.066 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 08:52:00.097 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 08:52:00.097 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 635 ms
+2023-12-27 08:52:00.365 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2023-12-27 08:52:45.674 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 19616 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 08:52:45.675 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 08:52:46.041 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 08:52:46.042 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 08:52:46.064 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 08:52:46.298 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 08:52:46.303 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 08:52:46.304 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 08:52:46.304 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 08:52:46.339 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 08:52:46.339 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 639 ms
+2023-12-27 08:52:46.574 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2023-12-27 08:53:31.445 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 14584 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 08:53:31.449 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 08:53:31.834 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 08:53:31.835 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 08:53:31.853 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 08:53:32.124 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 08:53:32.128 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 08:53:32.129 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 08:53:32.130 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 08:53:32.172 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 08:53:32.172 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 693 ms
+2023-12-27 08:53:32.360 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2023-12-27 08:57:39.113 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 6908 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 08:57:39.118 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 08:57:39.510 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 08:57:39.512 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 08:57:39.528 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 08:57:39.808 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 08:57:39.812 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 08:57:39.814 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 08:57:39.814 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 08:57:39.859 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 08:57:39.859 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 712 ms
+2023-12-27 08:57:40.052 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2023-12-27 09:00:04.418 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 26320 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:00:04.420 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:00:04.817 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:00:04.818 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:00:04.836 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:00:05.119 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:00:05.123 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:00:05.125 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:00:05.125 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:00:05.158 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:00:05.158 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 709 ms
+2023-12-27 09:00:05.929 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:00:05.935 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:00:05.944 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.7 seconds (process running for 2.179)
+2023-12-27 09:00:18.027 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:00:18.027 INFO [http-nio-8080-exec-2][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:00:18.029 INFO [http-nio-8080-exec-2][FrameworkServlet.java:554] - Completed initialization in 2 ms
+2023-12-27 09:00:18.325 INFO [http-nio-8080-exec-5][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 146 ms
+2023-12-27 09:09:37.222 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 2772 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:09:37.223 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:09:37.607 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:09:37.608 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:09:37.626 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:09:37.905 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:09:37.909 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:09:37.911 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:09:37.911 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:09:37.943 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:09:37.943 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 691 ms
+2023-12-27 09:09:38.676 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:09:38.683 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:09:38.690 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.648 seconds (process running for 2.128)
+2023-12-27 09:09:58.560 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 27272 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:09:58.562 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:09:58.930 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:09:58.931 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:09:58.951 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:09:59.231 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:09:59.235 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:09:59.236 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:09:59.236 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:09:59.278 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:09:59.278 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 691 ms
+2023-12-27 09:10:00.009 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:10:00.016 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:10:00.023 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.639 seconds (process running for 2.114)
+2023-12-27 09:10:04.270 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:10:04.270 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:10:04.271 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:10:04.504 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 67 ms
+2023-12-27 09:27:06.025 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 14744 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:27:06.028 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:27:06.420 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:27:06.421 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:27:06.438 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:27:06.713 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:27:06.716 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:27:06.718 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:27:06.719 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:27:06.755 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:27:06.755 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 697 ms
+2023-12-27 09:27:07.497 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:27:07.503 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:27:07.510 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.662 seconds (process running for 2.139)
+2023-12-27 09:27:11.245 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:27:11.245 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:27:11.247 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:27:11.450 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 65 ms
+2023-12-27 09:34:18.595 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 12260 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:34:18.596 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:34:18.986 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:34:18.988 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:34:19.005 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:34:19.289 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:34:19.294 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:34:19.295 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:34:19.295 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:34:19.332 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:34:19.332 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 707 ms
+2023-12-27 09:34:20.064 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:34:20.071 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:34:20.078 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.67 seconds (process running for 2.186)
+2023-12-27 09:34:23.629 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:34:23.629 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:34:23.630 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:34:23.830 INFO [http-nio-8080-exec-6][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 65 ms
+2023-12-27 09:37:01.497 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 26004 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:37:01.499 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:37:01.879 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:37:01.881 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:37:01.898 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:37:02.179 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:37:02.184 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:37:02.185 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:37:02.185 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:37:02.226 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:37:02.226 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 701 ms
+2023-12-27 09:37:02.959 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:37:02.965 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:37:02.973 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.651 seconds (process running for 2.142)
+2023-12-27 09:37:06.527 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:37:06.527 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:37:06.528 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:37:06.746 INFO [http-nio-8080-exec-5][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 66 ms
+2023-12-27 09:42:18.478 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 19676 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:42:18.481 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:42:18.866 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:42:18.867 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:42:18.886 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:42:19.169 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:42:19.173 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:42:19.174 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:42:19.175 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:42:19.213 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:42:19.214 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 707 ms
+2023-12-27 09:42:19.956 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:42:19.962 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:42:19.969 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.668 seconds (process running for 2.142)
+2023-12-27 09:42:23.558 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:42:23.558 INFO [http-nio-8080-exec-2][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:42:23.559 INFO [http-nio-8080-exec-2][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:42:23.761 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 68 ms
+2023-12-27 09:48:48.458 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 14640 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:48:48.460 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:48:48.848 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:48:48.849 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:48:48.871 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:48:49.135 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:48:49.139 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:48:49.141 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:48:49.141 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:48:49.183 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:48:49.183 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 694 ms
+2023-12-27 09:48:49.903 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:48:49.909 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:48:49.917 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.64 seconds (process running for 2.111)
+2023-12-27 09:48:53.858 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:48:53.858 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:48:53.860 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:48:54.067 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 66 ms
+2023-12-27 09:56:59.538 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 12124 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 09:56:59.540 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 09:56:59.913 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 09:56:59.914 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 09:56:59.933 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 09:57:00.213 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 09:57:00.217 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:57:00.219 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 09:57:00.219 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 09:57:00.263 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 09:57:00.263 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 694 ms
+2023-12-27 09:57:00.987 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 09:57:00.993 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 09:57:01.000 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.644 seconds (process running for 2.115)
+2023-12-27 09:57:06.290 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 09:57:06.290 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 09:57:06.291 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 09:57:06.499 INFO [http-nio-8080-exec-8][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 68 ms
+2023-12-27 10:05:20.312 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 18088 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:05:20.312 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:05:20.686 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:05:20.686 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:05:20.701 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:05:20.990 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:05:20.995 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:05:20.996 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:05:20.996 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:05:21.036 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:05:21.036 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 694 ms
+2023-12-27 10:05:21.780 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:05:21.786 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:05:21.793 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.654 seconds (process running for 2.13)
+2023-12-27 10:07:20.270 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:07:20.270 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:07:20.274 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 4 ms
+2023-12-27 10:07:20.299 INFO [http-nio-8080-exec-1][ChatServiceImpl.java:48] - id ==> 1
+2023-12-27 10:08:03.330 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 27880 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:08:03.331 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:08:03.711 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:08:03.712 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:08:03.729 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:08:04.003 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:08:04.007 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:08:04.008 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:08:04.009 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:08:04.049 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:08:04.049 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 692 ms
+2023-12-27 10:08:04.787 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:08:04.793 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:08:04.801 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.657 seconds (process running for 2.132)
+2023-12-27 10:08:08.805 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:08:08.806 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:08:08.807 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:08:09.008 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 68 ms
+2023-12-27 10:09:20.769 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 9760 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:09:20.771 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:09:21.138 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:09:21.140 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:09:21.161 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:09:21.428 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:09:21.433 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:09:21.434 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:09:21.434 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:09:21.475 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:09:21.475 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 677 ms
+2023-12-27 10:09:22.227 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:09:22.233 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:09:22.241 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.647 seconds (process running for 2.129)
+2023-12-27 10:09:26.403 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:09:26.403 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:09:26.404 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:09:26.626 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 68 ms
+2023-12-27 10:15:41.502 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 21456 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:15:41.504 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:15:41.868 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:15:41.869 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:15:41.894 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:15:42.152 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:15:42.156 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:15:42.157 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:15:42.157 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:15:42.205 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:15:42.205 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 676 ms
+2023-12-27 10:15:42.918 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:15:42.924 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:15:42.931 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.619 seconds (process running for 2.097)
+2023-12-27 10:15:45.663 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:15:45.663 INFO [http-nio-8080-exec-2][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:15:45.664 INFO [http-nio-8080-exec-2][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:15:45.871 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 65 ms
+2023-12-27 10:21:42.084 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 13888 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:21:42.086 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:21:42.449 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:21:42.451 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:21:42.470 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:21:42.735 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:21:42.739 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:21:42.740 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:21:42.741 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:21:42.778 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:21:42.778 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 668 ms
+2023-12-27 10:21:43.493 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:21:43.499 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:21:43.507 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.599 seconds (process running for 2.076)
+2023-12-27 10:21:47.370 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:21:47.371 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:21:47.372 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:21:47.574 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 67 ms
+2023-12-27 10:26:07.635 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 2668 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:26:07.638 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:26:07.999 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:26:08.000 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:26:08.020 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:26:08.292 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:26:08.297 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:26:08.298 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:26:08.298 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:26:08.333 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:26:08.333 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 671 ms
+2023-12-27 10:26:09.069 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:26:09.075 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:26:09.082 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.626 seconds (process running for 2.099)
+2023-12-27 10:26:12.939 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:26:12.939 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:26:12.940 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:26:13.142 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 67 ms
+2023-12-27 10:31:23.857 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 21164 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:31:23.860 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:31:24.232 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:31:24.233 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:31:24.250 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:31:24.523 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:31:24.527 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:31:24.528 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:31:24.529 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:31:24.570 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:31:24.571 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 686 ms
+2023-12-27 10:31:25.276 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:31:25.284 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:31:25.291 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.609 seconds (process running for 2.081)
+2023-12-27 10:31:29.776 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:31:29.776 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:31:29.777 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:31:29.980 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 66 ms
+2023-12-27 10:33:36.018 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 17476 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:33:36.021 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:33:36.524 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:33:36.525 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:33:36.546 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:33:36.867 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:33:36.872 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:33:36.873 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:33:36.874 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:33:36.913 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:33:36.913 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 858 ms
+2023-12-27 10:33:37.748 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:33:37.756 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:33:37.763 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.98 seconds (process running for 4.36)
+2023-12-27 10:33:44.200 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:33:44.200 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:33:44.201 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:33:44.390 INFO [http-nio-8080-exec-2][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 74 ms
+2023-12-27 10:38:33.857 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 3212 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:38:33.859 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:38:34.299 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:38:34.300 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:38:34.317 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:38:34.593 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:38:34.598 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:38:34.599 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:38:34.600 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:38:34.634 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:38:34.635 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 749 ms
+2023-12-27 10:38:35.416 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:38:35.423 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:38:35.430 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.774 seconds (process running for 6.32)
+2023-12-27 10:38:39.599 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:38:39.599 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:38:39.600 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:38:39.779 INFO [http-nio-8080-exec-6][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 71 ms
+2023-12-27 10:38:54.774 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 20540 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:38:54.776 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:38:55.175 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:38:55.176 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:38:55.198 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:38:55.478 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:38:55.482 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:38:55.483 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:38:55.483 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:38:55.523 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:38:55.523 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 718 ms
+2023-12-27 10:38:56.275 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:38:56.282 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:38:56.289 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.696 seconds (process running for 2.176)
+2023-12-27 10:38:59.200 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:38:59.200 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:38:59.201 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:38:59.388 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 71 ms
+2023-12-27 10:51:51.337 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 22284 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:51:51.338 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:51:51.710 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:51:51.711 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:51:51.734 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:51:52.007 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:51:52.012 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:51:52.013 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:51:52.013 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:51:52.055 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:51:52.055 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 688 ms
+2023-12-27 10:51:52.800 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:51:52.806 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:51:52.813 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.657 seconds (process running for 2.139)
+2023-12-27 10:52:03.721 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:52:03.721 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:52:03.722 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:52:03.939 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 67 ms
+2023-12-27 10:54:25.333 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 18156 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 10:54:25.336 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 10:54:25.704 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 10:54:25.705 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 10:54:25.724 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 10:54:26.023 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 10:54:26.027 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:54:26.028 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 10:54:26.029 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 10:54:26.069 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 10:54:26.069 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 706 ms
+2023-12-27 10:54:26.815 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 10:54:26.821 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 10:54:26.828 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.677 seconds (process running for 2.154)
+2023-12-27 10:56:34.175 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 10:56:34.175 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 10:56:34.176 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 10:56:34.398 INFO [http-nio-8080-exec-10][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 69 ms
+2023-12-27 11:12:06.615 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 3048 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 11:12:06.615 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 11:12:07.014 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 11:12:07.014 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 11:12:07.046 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 11:12:07.328 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 11:12:07.328 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 11:12:07.340 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 11:12:07.340 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 11:12:07.375 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 11:12:07.375 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 736 ms
+2023-12-27 11:12:08.129 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 11:12:08.135 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 11:12:08.143 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.716 seconds (process running for 2.183)
+2023-12-27 11:12:20.390 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 11:12:20.390 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 11:12:20.391 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 11:12:20.696 INFO [http-nio-8080-exec-3][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 122 ms
+2023-12-27 11:32:00.028 INFO [pool-2-thread-3][BatchServiceImpl.java:88] - Processing File...
+2023-12-27 11:32:00.028 INFO [pool-2-thread-2][BatchServiceImpl.java:88] - Processing File...
+2023-12-27 11:32:00.778 INFO [scheduling-1][BatchServiceImpl.java:51] - 发生错误: org.springframework.web.reactive.function.client.WebClientRequestException: Connection refused: no further information: /127.0.0.1:7861！
+2023-12-27 14:02:29.019 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 3352 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 14:02:29.022 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 14:02:29.540 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 14:02:29.542 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 14:02:29.561 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 14:02:29.890 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 14:02:29.894 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:02:29.896 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 14:02:29.896 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 14:02:29.932 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 14:02:29.932 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 877 ms
+2023-12-27 14:02:30.768 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:02:30.774 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 14:02:30.782 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.984 seconds (process running for 2.604)
+2023-12-27 14:02:46.934 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 14:02:46.934 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 14:02:46.936 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 2 ms
+2023-12-27 14:02:47.233 INFO [http-nio-8080-exec-9][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 148 ms
+2023-12-27 14:22:34.049 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 2544 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 14:22:34.050 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 14:22:34.472 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 14:22:34.473 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 14:22:34.488 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2023-12-27 14:22:34.775 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 14:22:34.781 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:22:34.782 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 14:22:34.782 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 14:22:34.823 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 14:22:34.823 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 746 ms
+2023-12-27 14:22:35.056 INFO [main][AutowiredAnnotationBeanPostProcessor.java:562] - Autowired annotation is not supported on static fields: private static org.springframework.data.redis.core.RedisTemplate com.springboottest.springboot_01.util.FileUtil.redisTemplate
+2023-12-27 14:22:35.573 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:22:35.579 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 14:22:35.587 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.731 seconds (process running for 2.253)
+2023-12-27 14:23:15.108 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 14:23:15.108 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 14:23:15.110 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 2 ms
+2023-12-27 14:23:15.435 INFO [http-nio-8080-exec-8][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 156 ms
+2023-12-27 14:23:34.867 INFO [pool-4-thread-2][ChatServiceImpl.java:49] - Uploaded Filename: test_doc.docx
+2023-12-27 14:23:34.867 INFO [pool-4-thread-3][ChatServiceImpl.java:49] - Uploaded Filename: test_db.docx
+2023-12-27 14:23:35.483 INFO [pool-4-thread-3][ChatServiceImpl.java:55] - User Message: 1 引言随着科学技术的飞速发展，硬件发杂性、多样性和应用的复杂性增加，软件系统的复杂性和规模也在不断增大，软件安全性和质量的保证成为各大公司及个人日益关注的焦点，软件中存在的各种问题也逐渐成为制约我国软件产业发展的主要因素。后期的软件测试工作可以说是为软件产品的完工把好最后一道关，是检验软件产品最为重要的一步。所以软件测试在软件开发中的地位日趋升高、软件测试员的地位也在日益提高。我们先简单的分析一下软件缺陷产生的原因。软件在投入运行之前会先进行软件测试，但运行前的软件测试是根据软件的需求分析、设计规格和编码实现为审定目标。但程序中的故障并一定是由编码引起的，大多数的软件缺陷可能是在系统详细设计阶段、概要设计阶段甚至是在需求分析阶段就存在问题所导致。在软件开发过程中，需求的更改、软件说明书的描述开发小组人员间的交流都可能导致软件程序出现缺陷。而软件测试是最大限度避免软件缺陷产生的最好途径[1]。本文系统的介绍了有关软件测试的各阶段及其用途。2 软件测试的定义软件测试（Software testing）是软件生存期（Software life cycle）中的一个重要阶段，是软件质量保证的关键步骤。通俗地讲，软件测试就是在软件投入运行前，对软件需求分析、设计规格说明和编码进行最终复审的活动。1983年IEEE提出的软件工程术语中给软件测试下的定义是：“使用人工或自动的手段来运行或测定某个软件系统的过程，其目的在于检验它是否满足规定的需求或弄清预期结果与实际结果之间的差别”。这个定义明确指出：软件测试的目的是为了检验软件系统是否满足需求[2]。从用户的角度来看，普遍希望通过软件测试暴露软件中隐藏的错误和缺陷，所以软件测试应该是“为了发现错误而执行程序的过程”。或者说，软件测试应该根据软件开发各阶段的规格说明和程序的内部结构而精心设计一批测试用例（即输入数据及其预期的输出结果），并利用这些测试用例去运行程序，以发现程序错误或缺陷。3 软件测试的生命周期软件测试就是软件在投入运行前，对软件需求分析、设计规格和编码是的最终审查，他是保证软件质量的关键步骤。软件测试是为了发现错误而执行程序并根据软件开发各阶段的规格说明和程序的内部结构而精心设计的测试。下图为一个测试生命周期模型。软件测试不仅仅是对程序的测试，而是贯穿于软件定义和开发的整个过程，因此，软件开发过程中产生的需求分析、概要设计、详细设计以及编码等各个阶段所得到的文档，包括需求规格说明、概要设计规格说明、详细设计规格说明以及源程序，都是软件测试的对象[3]。软件测试在软件生命周期，也就是软件从开发设计、运行、直到结束使用的全过程中，主要横跨单元测试阶段和综合测试阶段，即要在每个模块编写出以后进行测试、在完成单元测试后进行的测试，如集成测试、系统测试、验收测试等。4 软件测试的目的软件测试的目的，第一是确认软件的质量，其一方面是确认软件做了你所期望的事情（Do the right thing），另一方面是确认软件以正确的方式来做了这个事件（Do it right）。第二是提供信息，比如提供给开发人员或程序经理的反馈信息，为风险评估所准备的信息。 第三软件测试不仅是在测试软件产品的本身，而且还包括软件开发的过程。如果一个软件产品开发完成之后发现了很多问题，这说明此软件开发过程很可能是有缺陷的。因此软件测试的第三个目的是保证整个软件开发过程是高质量的。软件质量是由几个方面来衡量的：一、在正确的时间用正确的的方法把一个工作做正确（Doing the right things right at the right time.）。二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。三、质量本身就是软件达到了最开始所设定的要求，而代码的优美或精巧的技巧并不代表软件的高质量（Quality is defined as conformance to requirements, not as “goodness” or “elegance”.）。四、质量也代表着它符合客户的需要（Quality also means “meet customer needs”.）。作为软件测试这个行业，最重要的一件事就是从客户的需求出发，从客户的角度去看产品，客户会怎么去使用这个产品，使用过程中会遇到什么样的问题。只有这些问题都解决了，软件产品的质量才可以说是上去了[4]。测试人员在软件开发过程中的任务：1、寻找Bug；2、避免软件开发过程中的缺陷；3、衡量软件的品质；4、关注用户的需求。总的目标是：确保软件的质量5软件测试方法及流程软件测试方法主要有黑箱测试方法与白箱测试两类。黑箱测试又称功能测试、数据驱动测试或基于规格说明的测试，是在完全不考虑程序内部结构和内部特性的情况下，检查输入与输出之间关系是否符合要求。白箱测试又称结构测试、逻辑驱动测试或基于程序的测试，是在已知程序内部结构的情况下设计测试用例的测试方法。显然，白箱测试适合在单元测试中运用，而在独立测试阶段多采用黑箱测试方法。测试用例（Test case）实际上是对软件运行过程中所有可能存在的目标、运动、行动、环境和结果的描述，是对客观世界的一种抽象。设计测试用例即设计针对特定功能或组合功能的测试方案，并编写成文档。测试用例应该体现软件工程的思想和原则。测试用例的选择既要有一般情况，也应有极限情况以及最大和最小的边界值情况[5]。因为测试的目的是暴露应用软件中隐藏的缺陷，所以在设计选取测试用例和数据时要考虑那些易于发现缺陷的测试用例和数据，结合复杂的运行环境，在所有可能的输入条件和输出条件中确定测试数据，来检查应用软件是否都能产生正确的输出。软件测试所得到的数据经过处理以后，可以用来作为评估软件系统是否满足用户需求的依据。软件测试阶段的信息流如下图所示：6 结语软件系统的规模也在持续扩大,需求日益复杂,对软件质量的要求也越来越高。但现实中软件系统的质量和稳定性却不尽如人意,采用有效的软件测试是保证软件质量、提高软件可靠性的重要手段。软件测试是产品最终交付到用户之前的最后一道防线,有着举足轻重的地位。然而,做好软件测试却是不容易的,一方面你需要同时掌握软件开发的技能和软件测试方面的技能;另一方面,产品必须给予测试充分的独立性和资源保证。软件测试是发现软件中错误而检查文档、运行程序的一个过程。软件测试的概念虽然是和软件编程同时提出的,但发展速度却远远没有编程技术快。近十几年来,随着软件应用的迅速推广,对软件测试也变得迫切需要,各种针对性的测试方法和技术不断出现。软件测试前景被极为看好，我们相信，在不久的将来，软件测试会成为软件行业的主题被越来越多的人更广泛的重视。
+2023-12-27 14:23:35.483 INFO [pool-4-thread-2][ChatServiceImpl.java:55] - User Message: 银行分布式系统软件开发技术文档1. 引言随着银行业务的复杂性和用户需求的不断增加，采用分布式系统架构成为提高系统可靠性、可扩展性和性能的关键策略。本文将深入介绍银行分布式系统软件开发的技术细节，包括系统架构、设计原则、开发工具、测试策略以及安全性考虑等方面。2. 系统架构2.1 微服务架构在银行分布式系统中，微服务架构被选择为核心架构设计原则。每个微服务都被设计为一个独立的业务单元，通过Spring Cloud框架实现独立的部署和运行。Netflix Eureka作为服务发现组件，确保微服务能够动态地注册和发现其他服务，实现服务之间的透明通信。采用微服务的优势之一是强调服务的自治性和单一职责原则。每个微服务专注于解决特定的业务问题，有自己的数据存储、业务逻辑和用户界面。这种分离使得系统更加灵活，允许每个微服务能够独立进化，而不会影响到其他服务。通过RESTful API的通信方式，微服务之间实现了松耦合，进一步提高了系统的可维护性。同时，采用容器化技术，如Docker，将每个微服务封装为一个独立的容器，实现更便捷的部署和扩展。微服务架构的引入，使得银行系统更加敏捷、易于扩展，并且更容易应对业务的快速变化。2.2 分布式事务在银行业务中，分布式事务的一致性至关重要。系统采用Seata作为分布式事务管理器，确保在微服务架构下的事务操作的原子性和一致性。Seata通过全局事务ID协调各个微服务的事务操作，实现对分布式事务的控制。采用两阶段提交协议，确保所有参与者都同意提交事务或者回滚事务。通过引入消息队列（Kafka）来进行异步事务处理，提高了系统的可用性和性能。分布式事务的实现，使得银行系统能够更加安全、可靠地处理用户的复杂金融交易，确保资金的一致性和完整性。2.3 API网关API网关在系统架构中担任着关键的角色，负责请求的路由、过滤和负载均衡。银行系统采用Spring Cloud Gateway作为API网关，通过定义路由规则，将请求引导到相应的微服务。通过统一的网关入口，实现对服务的访问控制和安全检查。API网关不仅提供了对外的服务入口，还通过集成Spring Security来实现身份认证和授权，确保只有合法的请求可以访问系统。通过引入Swagger，API网关为系统提供了自动生成的API文档，简化了对外部服务的调用和理解。这一架构决策使得银行系统能够更加灵活地管理和控制对各个微服务的访问，同时提供了一个集中的入口点，简化了系统的整体结构。通过以上系统架构的设计，银行分布式系统充分利用微服务的优势，实现了更好的可维护性、可扩展性和安全性。这一架构决策契合了银行业务的实际需求，为系统的长期发展提供了坚实的基础。3. 设计原则在银行分布式系统的设计中，遵循一系列关键的设计原则是确保系统可维护性、可扩展性和健壮性的基础。以下是一些重要的设计原则，以及它们在系统设计中的应用。3.1 微服务设计银行分布式系统采用微服务设计原则，每个微服务都专注于单一职责，通过Spring Cloud实现独立部署。这使得系统更易于理解、扩展和维护。微服务之间的通信基于RESTful API，保证了服务之间的松耦合性，允许每个微服务在必要时独立进化。在微服务设计中，还采用领域驱动设计（DDD）的理念，将业务逻辑划分为领域模型。每个微服务负责自己的领域，通过界定上下文边界和明确服务接口，降低了系统中各个组件的耦合度。通过CQRS模式分离读写操作，实现更灵活、高效的数据处理。采用微服务设计原则的银行系统还注重在团队之间建立有效的沟通和协作，确保微服务的设计和演进是团队共同努力的结果。3.2 容错设计容错设计原则在银行分布式系统中起到关键作用，特别是面对复杂的金融业务环境和不可预测的网络故障。系统引入了Hystrix作为容错框架，以确保系统在面对故障时能够提供有限但可控的服务。Hystrix通过实现断路器模式，定期检测服务的可用性，当服务的错误率超过阈值时，自动打开断路器，阻止对服务的请求。这种机制防止了级联故障的发生，提高了系统的鲁棒性。此外，容错设计还包括超时设置、降级策略和熔断器的合理配置。通过这些措施，银行系统在面对各种异常情况时能够保持稳定运行，最大程度地减小了对用户的影响。3.3 异步消息驱动事件驱动架构是银行分布式系统中的另一个设计原则，通过消息队列实现微服务之间的异步消息驱动。Apache Kafka作为消息中间件，扮演着关键的角色，提高了系统的弹性、可伸缩性和可维护性。通过异步消息传递，微服务可以在不同的时间和速率下进行工作，减轻系统的压力。每个微服务既是事件的生产者，又是消费者，实现了服务之间的松耦合。这种架构使系统更具弹性，能够更好地适应不断变化的业务需求。在设计上，还采用了领域事件的概念，将微服务的状态变化通过事件进行发布和订阅。这种模型更好地反映了实际业务流程，增强了系统的灵活性。采用异步消息驱动的设计原则的银行系统还注重在消息的序列化和反序列化过程中的性能和可靠性，以确保系统在高并发场景下依然稳健运行。通过遵循这些设计原则，银行分布式系统实现了更加灵活、稳定和高效的架构，为日益复杂的金融业务提供了坚实的技术基础。4. 开发工具4.1 开发环境在银行分布式系统的开发过程中，选择适当的开发环境是确保高效、协同工作的关键。团队选择了IntelliJ IDEA作为主要的集成开发环境（IDE）。IntelliJ IDEA提供了丰富的功能，包括代码智能提示、代码重构、调试和版本控制等，使得开发者能够更加轻松地编写、调试和维护代码。为了保证团队的代码一致性和版本的管理，采用了Git进行分布式版本控制。通过使用GitFlow工作流模型，团队能够有序地管理分支，确保各个开发者的工作得到高效整合。此外，为了提高Java代码的可读性和简洁性，团队引入了Lombok，它通过注解的方式简化了Java代码的编写，减少了冗余的样板代码。这一选择有效地提高了开发效率，减少了出错的概率。4.2 数据库在银行分布式系统中，数据是至关重要的。团队选择了MySQL作为主要的关系型数据库管理系统（RDBMS）。MySQL具有成熟的社区支持、高性能和可扩展性，非常适合处理金融交易等对数据库性能和事务一致性要求较高的场景。为了更好地管理数据库结构的演化，引入了Flyway作为数据库版本管理工具。Flyway使得数据库的升级和回滚变得更加容易，同时也提供了可追溯的版本历史，方便团队进行数据库的维护和协作。作为缓存数据库，团队选择了Redis。Redis以其快速的内存读写速度和支持丰富数据结构的特性，为系统提供了高性能的缓存服务。通过合理地使用缓存，可以有效减轻数据库的压力，提升系统整体的响应速度。4.3 持续集成与部署为了确保系统的代码质量和稳定性，引入了Jenkins作为持续集成（CI）工具。通过Jenkins，团队可以实现代码的自动构建、测试和部署。CI过程中使用Maven作为构建工具，统一管理项目的依赖关系，确保团队在构建过程中的一致性。Docker技术被广泛应用于系统的自动化部署。Docker容器化技术提供了轻量级、可移植和可扩展的部署方式，使得应用程序和其依赖能够打包为一个独立的容器。这种方式不仅方便了开发环境和生产环境的一致性，同时提高了部署的效率和可靠性。为了进一步提高自动化部署的效率，引入了容器编排工具Kubernetes。Kubernetes能够自动管理和调度容器，实现服务的自动化部署、伸缩和管理。通过Helm管理Kubernetes的应用程序，简化了复杂系统的配置和管理。4.4 容器编排引入Kubernetes作为容器编排工具是银行分布式系统的又一个关键决策。Kubernetes提供了高度可扩展的容器集群管理工具，能够实现对Docker容器的自动部署、扩展和操作。通过Kubernetes，团队可以轻松地管理系统的多个微服务实例，确保系统的高可用性。Kubernetes提供的弹性伸缩机制，使得系统能够根据负载情况自动调整服务的数量，保障了系统的性能和稳定性。Helm作为Kubernetes的包管理工具，简化了应用程序的部署和升级。Helm Charts定义了Kubernetes应用的结构，通过使用Helm，团队能够轻松地共享和部署系统的各个组件。通过选择适当的开发工具和采用自动化的持续集成、持续部署和容器编排技术，银行分布式系统确保了高效、稳定的开发流程，从而为系统的长期发展奠定了坚实的基础。5. 测试策略5.1 单元测试在银行分布式系统的开发中，单元测试是确保代码质量和功能正确性的重要手段。团队采用了JUnit和Mockito等测试框架进行单元测试。JUnit提供了简单而强大的测试框架，而Mockito则用于模拟和注入测试中的依赖关系。通过编写单元测试，团队可以迅速检测和定位代码中的问题，确保每个微服务的基本功能得到正确实现。测试用例涵盖了各种可能的输入和边界条件，以保证系统在各种情况下都能够正常运行。通过引入TestContainers，团队还实现了对外部依赖（如数据库、消息队列等）的集成测试，确保系统与外部环境的协同工作。为了监控测试覆盖率，引入了JaCoCo作为代码覆盖率工具。JaCoCo能够生成详细的测试覆盖报告，帮助团队了解哪些部分的代码得到了覆盖，哪些部分还需要更多的测试。5.2 集成测试在分布式系统中，各个微服务之间的协同工作是至关重要的。为了确保服务之间的契约得到满足，团队采用了Spring Cloud Contract进行微服务的集成测试。这种方式通过定义和共享契约，确保了每个服务的接口在变更时得到适当的测试和验证。为了模拟整个系统的集成环境，使用了Docker Compose。通过Docker Compose，团队可以轻松地创建包含所有微服务的测试环境，以确保各服务在协同工作时能够保持一致的行为。整合Selenium进行用户界面的集成测试，确保系统的端到端功能正常运作。5.3 性能测试在银行分布式系统中，性能是至关重要的考虑因素之一。团队采用Apache JMeter进行系统的性能测试。通过模拟高并发和大数据量的场景，可以评估系统在真实生产环境中的性能表现。同时，引入了Prometheus和Grafana等监控工具，用于分析系统在不同负载下的性能数据。这样的实时监测帮助团队及时发现性能问题，并通过合理的调整系统配置，提高系统的稳定性和性能。此外，利用Locust进行分布式负载测试，模拟大量用户并发访问系统，以验证系统在高负载下的性能稳定性。这一综合的性能测试策略确保了系统在各种负载条件下都能够保持高效的运行。5.4 安全性测试银行分布式系统的安全性是用户信任和系统稳定运行的基石。为了确保系统的安全性，引入了OWASP ZAP等安全性测试工具。这些工具可以模拟各种网络攻击和漏洞，帮助团队发现潜在的安全漏洞，并及时加以修复。通过渗透测试，团队模拟攻击者的行为，评估系统在面对潜在威胁时的表现。定期进行安全性测试，并利用代码静态分析工具（如SonarQube）监测代码中的安全问题，确保系统能够抵御各种恶意行为。综合采用以上测试策略，银行分布式系统不仅在功能上得到了全面的验证，还在性能、安全性等多个方面进行了充分的测试，以确保系统的稳定性、可用性和安全性。6. 安全性考虑6.2 身份认证与授权银行分布式系统采用了OAuth 2.0作为身份验证和授权协议。通过OAuth 2.0，系统能够安全地授权第三方应用程序，确保用户的隐私和数据安全。结合JWT（JSON Web Token），系统实现了令牌的管理，为用户提供了安全而高效的身份认证机制。Spring Security框架被引入用于服务的安全保障。通过Spring Security，团队实施了细粒度的访问控制，只有授权用户才能够访问敏感信息。通过定义角色和权限，系统确保了每个用户在系统中的行为是可控的。引入OpenID Connect作为OAuth 2.0的扩展，为系统提供了对于身份验证的标准化支持。OpenID Connect通过在OAuth 2.0上构建，使得身份认证过程更为安全和灵活。6.3 安全审计安全审计是系统中的一个关键环节，用于实时监测和记录系统中的异常操作和潜在的漏洞。为了实现安全审计，引入了ELK Stack（Elasticsearch, Logstash, Kibana）。ELK Stack通过收集、处理和可视化系统的日志，为团队提供了全面的安全审计功能。通过建立安全审计策略，团队能够对系统的关键操作进行实时监测，及时发现异常行为。通过集成Kibana，团队能够轻松地搜索、分析和可视化系统的日志数据，以便更好地理解和回溯系统中的安全事件。引入安全审计的定期审查流程，帮助团队改进安全策略和措施，确保系统在面对潜在威胁时能够做出及时的响应。6.4 持续监控为了确保系统的安全性不断得到维护，引入了持续监控机制。采用Prometheus和Grafana等监控工具，对系统关键指标进行实时监测，及时发现异常行为和性能问题。建立了警报机制，对系统的关键指标设置阈值，当指标超过阈值时触发报警。这种机制帮助团队在系统发生异常时迅速做出响应，保障系统的正常运行。引入了日志分析工具，如Splunk，进一步优化监控系统的效果。通过分析大量的日志数据，团队可以更深入地理解系统的运行状况，及时发现异常情况，提高系统的安全性。通过上述安全性考虑的措施，银行分布式系统实现了全方位的安全保障。从数据传输到身份认证、审计和监控，系统在多个层面确保了用户数据和系统运行的安全性。这使得系统在金融领域这个对安全性要求极高的领域中能够信任和可靠地运行。7. 总结银行分布式系统的软件开发需要综合考虑架构、设计、开发工具、测试和安全等多个方面。采用先进的技术和最佳实践，可以确保系统具备高性能、高可用性和高安全性。在整个开发过程中，持续优化和团队协作是实现成功的关键。通过合理的技术选型和全面的开发流程，银行分布式系统将更好地满足用户需求并应对不断变化的金融环境。
+2023-12-27 14:26:39.864 INFO [pool-4-thread-2][ChatServiceImpl.java:61] - Response from server: 1. 分布式系统架构：微服务架构、分布式事务管理、API网关等。2. 设计原则：微服务设计原则、领域驱动设计、CQRS模式等。3. 开发工具：IntelliJ IDEA、Git、Jenkins等。4. 测试策略：单元测试、集成测试、性能测试、安全性测试等。5. 安全性考虑：身份认证与授权、安全审计、持续监控等。
+2023-12-27 14:27:24.668 INFO [pool-4-thread-3][ChatServiceImpl.java:61] - Response from server: 1. 软件测试是软件质量保证的关键步骤，目的是确认软件是否满足需求，提供信息，保证整个软件开发过程是高质量的。2. 软件测试贯穿于软件定义和开发的整个过程，包括需求分析、设计规格、编码实现等各个阶段。3. 软件测试方法主要有黑箱测试和白箱测试两类，黑箱测试主要检查输入与输出之间的关系，白箱测试主要测试程序内部结构。4. 软件测试用例是描述软件运行过程中所有可能存在的目标、运动、行动、环境和结果的文档，设计测试用例要体现软件工程的思想和原则。5. 软件测试是发现软件中错误而检查文档、运行程序的过程，做好软件测试需要同时掌握软件开发的技能和软件测试方面的技能。
+2023-12-27 14:27:38.701 INFO [ForkJoinPool.commonPool-worker-3][FileUtil.java:120] - {"answer": "根据您提供的已知信息和问题，我无法找到与您要求相符的生产案例。请确保您的问题描述准确无误，并且与已有的生产案例相符。如果您的问题描述准确无误，请提供更多的上下文信息，以便我可以更好地回答您的问题。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n4、关注用户的需求。\n总的目标是：确保软件的质量\n5软件测试方法及流程\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n即要在每个模块编写出以后进行测试、在完成单元测试后进行的测试，如集成测试、系统测试、验收测试等。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n3、衡量软件的品质；\n4、关注用户的需求。\n总的目标是：确保软件的质量\n\n"]}
+2023-12-27 14:29:52.659 INFO [ForkJoinPool.commonPool-worker-4][FileUtil.java:120] - {"answer": "**案例**\n\n问题现象：软件测试在软件开发过程中扮演着重要的角色，能够确保软件的质量。\n\n问题原因：软件测试是对软件需求分析、设计规格和编码的最终审查，是保证软件质量的关键步骤。同时，软件测试方法包括黑箱测试和白箱测试，测试用例的设计要体现软件工程的思想和原则。\n\n措施：软件测试需要同时掌握软件开发的技能和软件测试方面的技能。在软件开发过程中，软件测试应贯穿于各个阶段，包括需求分析、设计规格、编码实现等。通过软件测试，可以确认软件是否满足需求，提供信息，保证整个软件开发过程是高质量的。\n\n**案例**\n\n问题现象：软件测试在软件开发过程中扮演着重要的角色，能够确保软件的质量。\n\n问题原因：软件测试是对软件需求分析、设计规格和编码的最终审查，是保证软件质量的关键步骤。同时，软件测试方法包括黑箱测试和白箱测试，测试用例的设计要体现软件工程的思想和原则。\n\n措施：软件测试需要同时掌握软件开发的技能和软件测试方面的技能。在软件开发过程中，软件测试应贯穿于各个阶段，包括需求分析、设计规格、编码实现等。通过软件测试，可以确认软件是否满足需求，提供信息，保证整个软件开发过程是高质量的。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n4、关注用户的需求。\n总的目标是：确保软件的质量\n5软件测试方法及流程\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n软件测试就是软件在投入运行前，对软件需求分析、设计规格和编码是的最终审查，他是保证软件质量的关键步骤。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n软件测试的目的，第一是确认软件的质量，其一方面是确认软件做了你所期望的事情（Do the right thing），另一方面是确认软件以正确的方式来做了这个事件\n\n"]}
+2023-12-27 14:36:58.894 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 11424 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 14:36:58.896 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 14:36:59.355 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 14:36:59.357 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 14:36:59.387 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2023-12-27 14:36:59.704 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 14:36:59.712 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:36:59.714 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 14:36:59.714 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 14:36:59.755 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 14:36:59.755 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 828 ms
+2023-12-27 14:37:00.022 INFO [main][AutowiredAnnotationBeanPostProcessor.java:562] - Autowired annotation is not supported on static fields: private static org.springframework.data.redis.core.RedisTemplate com.springboottest.springboot_01.util.FileUtil.redisTemplate
+2023-12-27 14:37:00.596 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:37:00.602 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 14:37:00.610 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 1.939 seconds (process running for 2.593)
+2023-12-27 14:37:09.279 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 14:37:09.279 INFO [http-nio-8080-exec-1][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 14:37:09.280 INFO [http-nio-8080-exec-1][FrameworkServlet.java:554] - Completed initialization in 1 ms
+2023-12-27 14:37:09.609 INFO [http-nio-8080-exec-4][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 71 ms
+2023-12-27 14:37:19.436 INFO [pool-3-thread-3][ChatServiceImpl.java:49] - Uploaded Filename: test_db.docx
+2023-12-27 14:37:19.436 INFO [pool-3-thread-2][ChatServiceImpl.java:49] - Uploaded Filename: test_doc.docx
+2023-12-27 14:37:19.957 INFO [pool-3-thread-3][ChatServiceImpl.java:55] - User Message: 1 引言随着科学技术的飞速发展，硬件发杂性、多样性和应用的复杂性增加，软件系统的复杂性和规模也在不断增大，软件安全性和质量的保证成为各大公司及个人日益关注的焦点，软件中存在的各种问题也逐渐成为制约我国软件产业发展的主要因素。后期的软件测试工作可以说是为软件产品的完工把好最后一道关，是检验软件产品最为重要的一步。所以软件测试在软件开发中的地位日趋升高、软件测试员的地位也在日益提高。我们先简单的分析一下软件缺陷产生的原因。软件在投入运行之前会先进行软件测试，但运行前的软件测试是根据软件的需求分析、设计规格和编码实现为审定目标。但程序中的故障并一定是由编码引起的，大多数的软件缺陷可能是在系统详细设计阶段、概要设计阶段甚至是在需求分析阶段就存在问题所导致。在软件开发过程中，需求的更改、软件说明书的描述开发小组人员间的交流都可能导致软件程序出现缺陷。而软件测试是最大限度避免软件缺陷产生的最好途径[1]。本文系统的介绍了有关软件测试的各阶段及其用途。2 软件测试的定义软件测试（Software testing）是软件生存期（Software life cycle）中的一个重要阶段，是软件质量保证的关键步骤。通俗地讲，软件测试就是在软件投入运行前，对软件需求分析、设计规格说明和编码进行最终复审的活动。1983年IEEE提出的软件工程术语中给软件测试下的定义是：“使用人工或自动的手段来运行或测定某个软件系统的过程，其目的在于检验它是否满足规定的需求或弄清预期结果与实际结果之间的差别”。这个定义明确指出：软件测试的目的是为了检验软件系统是否满足需求[2]。从用户的角度来看，普遍希望通过软件测试暴露软件中隐藏的错误和缺陷，所以软件测试应该是“为了发现错误而执行程序的过程”。或者说，软件测试应该根据软件开发各阶段的规格说明和程序的内部结构而精心设计一批测试用例（即输入数据及其预期的输出结果），并利用这些测试用例去运行程序，以发现程序错误或缺陷。3 软件测试的生命周期软件测试就是软件在投入运行前，对软件需求分析、设计规格和编码是的最终审查，他是保证软件质量的关键步骤。软件测试是为了发现错误而执行程序并根据软件开发各阶段的规格说明和程序的内部结构而精心设计的测试。下图为一个测试生命周期模型。软件测试不仅仅是对程序的测试，而是贯穿于软件定义和开发的整个过程，因此，软件开发过程中产生的需求分析、概要设计、详细设计以及编码等各个阶段所得到的文档，包括需求规格说明、概要设计规格说明、详细设计规格说明以及源程序，都是软件测试的对象[3]。软件测试在软件生命周期，也就是软件从开发设计、运行、直到结束使用的全过程中，主要横跨单元测试阶段和综合测试阶段，即要在每个模块编写出以后进行测试、在完成单元测试后进行的测试，如集成测试、系统测试、验收测试等。4 软件测试的目的软件测试的目的，第一是确认软件的质量，其一方面是确认软件做了你所期望的事情（Do the right thing），另一方面是确认软件以正确的方式来做了这个事件（Do it right）。第二是提供信息，比如提供给开发人员或程序经理的反馈信息，为风险评估所准备的信息。 第三软件测试不仅是在测试软件产品的本身，而且还包括软件开发的过程。如果一个软件产品开发完成之后发现了很多问题，这说明此软件开发过程很可能是有缺陷的。因此软件测试的第三个目的是保证整个软件开发过程是高质量的。软件质量是由几个方面来衡量的：一、在正确的时间用正确的的方法把一个工作做正确（Doing the right things right at the right time.）。二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。三、质量本身就是软件达到了最开始所设定的要求，而代码的优美或精巧的技巧并不代表软件的高质量（Quality is defined as conformance to requirements, not as “goodness” or “elegance”.）。四、质量也代表着它符合客户的需要（Quality also means “meet customer needs”.）。作为软件测试这个行业，最重要的一件事就是从客户的需求出发，从客户的角度去看产品，客户会怎么去使用这个产品，使用过程中会遇到什么样的问题。只有这些问题都解决了，软件产品的质量才可以说是上去了[4]。测试人员在软件开发过程中的任务：1、寻找Bug；2、避免软件开发过程中的缺陷；3、衡量软件的品质；4、关注用户的需求。总的目标是：确保软件的质量5软件测试方法及流程软件测试方法主要有黑箱测试方法与白箱测试两类。黑箱测试又称功能测试、数据驱动测试或基于规格说明的测试，是在完全不考虑程序内部结构和内部特性的情况下，检查输入与输出之间关系是否符合要求。白箱测试又称结构测试、逻辑驱动测试或基于程序的测试，是在已知程序内部结构的情况下设计测试用例的测试方法。显然，白箱测试适合在单元测试中运用，而在独立测试阶段多采用黑箱测试方法。测试用例（Test case）实际上是对软件运行过程中所有可能存在的目标、运动、行动、环境和结果的描述，是对客观世界的一种抽象。设计测试用例即设计针对特定功能或组合功能的测试方案，并编写成文档。测试用例应该体现软件工程的思想和原则。测试用例的选择既要有一般情况，也应有极限情况以及最大和最小的边界值情况[5]。因为测试的目的是暴露应用软件中隐藏的缺陷，所以在设计选取测试用例和数据时要考虑那些易于发现缺陷的测试用例和数据，结合复杂的运行环境，在所有可能的输入条件和输出条件中确定测试数据，来检查应用软件是否都能产生正确的输出。软件测试所得到的数据经过处理以后，可以用来作为评估软件系统是否满足用户需求的依据。软件测试阶段的信息流如下图所示：6 结语软件系统的规模也在持续扩大,需求日益复杂,对软件质量的要求也越来越高。但现实中软件系统的质量和稳定性却不尽如人意,采用有效的软件测试是保证软件质量、提高软件可靠性的重要手段。软件测试是产品最终交付到用户之前的最后一道防线,有着举足轻重的地位。然而,做好软件测试却是不容易的,一方面你需要同时掌握软件开发的技能和软件测试方面的技能;另一方面,产品必须给予测试充分的独立性和资源保证。软件测试是发现软件中错误而检查文档、运行程序的一个过程。软件测试的概念虽然是和软件编程同时提出的,但发展速度却远远没有编程技术快。近十几年来,随着软件应用的迅速推广,对软件测试也变得迫切需要,各种针对性的测试方法和技术不断出现。软件测试前景被极为看好，我们相信，在不久的将来，软件测试会成为软件行业的主题被越来越多的人更广泛的重视。
+2023-12-27 14:37:19.957 INFO [pool-3-thread-2][ChatServiceImpl.java:55] - User Message: 银行分布式系统软件开发技术文档1. 引言随着银行业务的复杂性和用户需求的不断增加，采用分布式系统架构成为提高系统可靠性、可扩展性和性能的关键策略。本文将深入介绍银行分布式系统软件开发的技术细节，包括系统架构、设计原则、开发工具、测试策略以及安全性考虑等方面。2. 系统架构2.1 微服务架构在银行分布式系统中，微服务架构被选择为核心架构设计原则。每个微服务都被设计为一个独立的业务单元，通过Spring Cloud框架实现独立的部署和运行。Netflix Eureka作为服务发现组件，确保微服务能够动态地注册和发现其他服务，实现服务之间的透明通信。采用微服务的优势之一是强调服务的自治性和单一职责原则。每个微服务专注于解决特定的业务问题，有自己的数据存储、业务逻辑和用户界面。这种分离使得系统更加灵活，允许每个微服务能够独立进化，而不会影响到其他服务。通过RESTful API的通信方式，微服务之间实现了松耦合，进一步提高了系统的可维护性。同时，采用容器化技术，如Docker，将每个微服务封装为一个独立的容器，实现更便捷的部署和扩展。微服务架构的引入，使得银行系统更加敏捷、易于扩展，并且更容易应对业务的快速变化。2.2 分布式事务在银行业务中，分布式事务的一致性至关重要。系统采用Seata作为分布式事务管理器，确保在微服务架构下的事务操作的原子性和一致性。Seata通过全局事务ID协调各个微服务的事务操作，实现对分布式事务的控制。采用两阶段提交协议，确保所有参与者都同意提交事务或者回滚事务。通过引入消息队列（Kafka）来进行异步事务处理，提高了系统的可用性和性能。分布式事务的实现，使得银行系统能够更加安全、可靠地处理用户的复杂金融交易，确保资金的一致性和完整性。2.3 API网关API网关在系统架构中担任着关键的角色，负责请求的路由、过滤和负载均衡。银行系统采用Spring Cloud Gateway作为API网关，通过定义路由规则，将请求引导到相应的微服务。通过统一的网关入口，实现对服务的访问控制和安全检查。API网关不仅提供了对外的服务入口，还通过集成Spring Security来实现身份认证和授权，确保只有合法的请求可以访问系统。通过引入Swagger，API网关为系统提供了自动生成的API文档，简化了对外部服务的调用和理解。这一架构决策使得银行系统能够更加灵活地管理和控制对各个微服务的访问，同时提供了一个集中的入口点，简化了系统的整体结构。通过以上系统架构的设计，银行分布式系统充分利用微服务的优势，实现了更好的可维护性、可扩展性和安全性。这一架构决策契合了银行业务的实际需求，为系统的长期发展提供了坚实的基础。3. 设计原则在银行分布式系统的设计中，遵循一系列关键的设计原则是确保系统可维护性、可扩展性和健壮性的基础。以下是一些重要的设计原则，以及它们在系统设计中的应用。3.1 微服务设计银行分布式系统采用微服务设计原则，每个微服务都专注于单一职责，通过Spring Cloud实现独立部署。这使得系统更易于理解、扩展和维护。微服务之间的通信基于RESTful API，保证了服务之间的松耦合性，允许每个微服务在必要时独立进化。在微服务设计中，还采用领域驱动设计（DDD）的理念，将业务逻辑划分为领域模型。每个微服务负责自己的领域，通过界定上下文边界和明确服务接口，降低了系统中各个组件的耦合度。通过CQRS模式分离读写操作，实现更灵活、高效的数据处理。采用微服务设计原则的银行系统还注重在团队之间建立有效的沟通和协作，确保微服务的设计和演进是团队共同努力的结果。3.2 容错设计容错设计原则在银行分布式系统中起到关键作用，特别是面对复杂的金融业务环境和不可预测的网络故障。系统引入了Hystrix作为容错框架，以确保系统在面对故障时能够提供有限但可控的服务。Hystrix通过实现断路器模式，定期检测服务的可用性，当服务的错误率超过阈值时，自动打开断路器，阻止对服务的请求。这种机制防止了级联故障的发生，提高了系统的鲁棒性。此外，容错设计还包括超时设置、降级策略和熔断器的合理配置。通过这些措施，银行系统在面对各种异常情况时能够保持稳定运行，最大程度地减小了对用户的影响。3.3 异步消息驱动事件驱动架构是银行分布式系统中的另一个设计原则，通过消息队列实现微服务之间的异步消息驱动。Apache Kafka作为消息中间件，扮演着关键的角色，提高了系统的弹性、可伸缩性和可维护性。通过异步消息传递，微服务可以在不同的时间和速率下进行工作，减轻系统的压力。每个微服务既是事件的生产者，又是消费者，实现了服务之间的松耦合。这种架构使系统更具弹性，能够更好地适应不断变化的业务需求。在设计上，还采用了领域事件的概念，将微服务的状态变化通过事件进行发布和订阅。这种模型更好地反映了实际业务流程，增强了系统的灵活性。采用异步消息驱动的设计原则的银行系统还注重在消息的序列化和反序列化过程中的性能和可靠性，以确保系统在高并发场景下依然稳健运行。通过遵循这些设计原则，银行分布式系统实现了更加灵活、稳定和高效的架构，为日益复杂的金融业务提供了坚实的技术基础。4. 开发工具4.1 开发环境在银行分布式系统的开发过程中，选择适当的开发环境是确保高效、协同工作的关键。团队选择了IntelliJ IDEA作为主要的集成开发环境（IDE）。IntelliJ IDEA提供了丰富的功能，包括代码智能提示、代码重构、调试和版本控制等，使得开发者能够更加轻松地编写、调试和维护代码。为了保证团队的代码一致性和版本的管理，采用了Git进行分布式版本控制。通过使用GitFlow工作流模型，团队能够有序地管理分支，确保各个开发者的工作得到高效整合。此外，为了提高Java代码的可读性和简洁性，团队引入了Lombok，它通过注解的方式简化了Java代码的编写，减少了冗余的样板代码。这一选择有效地提高了开发效率，减少了出错的概率。4.2 数据库在银行分布式系统中，数据是至关重要的。团队选择了MySQL作为主要的关系型数据库管理系统（RDBMS）。MySQL具有成熟的社区支持、高性能和可扩展性，非常适合处理金融交易等对数据库性能和事务一致性要求较高的场景。为了更好地管理数据库结构的演化，引入了Flyway作为数据库版本管理工具。Flyway使得数据库的升级和回滚变得更加容易，同时也提供了可追溯的版本历史，方便团队进行数据库的维护和协作。作为缓存数据库，团队选择了Redis。Redis以其快速的内存读写速度和支持丰富数据结构的特性，为系统提供了高性能的缓存服务。通过合理地使用缓存，可以有效减轻数据库的压力，提升系统整体的响应速度。4.3 持续集成与部署为了确保系统的代码质量和稳定性，引入了Jenkins作为持续集成（CI）工具。通过Jenkins，团队可以实现代码的自动构建、测试和部署。CI过程中使用Maven作为构建工具，统一管理项目的依赖关系，确保团队在构建过程中的一致性。Docker技术被广泛应用于系统的自动化部署。Docker容器化技术提供了轻量级、可移植和可扩展的部署方式，使得应用程序和其依赖能够打包为一个独立的容器。这种方式不仅方便了开发环境和生产环境的一致性，同时提高了部署的效率和可靠性。为了进一步提高自动化部署的效率，引入了容器编排工具Kubernetes。Kubernetes能够自动管理和调度容器，实现服务的自动化部署、伸缩和管理。通过Helm管理Kubernetes的应用程序，简化了复杂系统的配置和管理。4.4 容器编排引入Kubernetes作为容器编排工具是银行分布式系统的又一个关键决策。Kubernetes提供了高度可扩展的容器集群管理工具，能够实现对Docker容器的自动部署、扩展和操作。通过Kubernetes，团队可以轻松地管理系统的多个微服务实例，确保系统的高可用性。Kubernetes提供的弹性伸缩机制，使得系统能够根据负载情况自动调整服务的数量，保障了系统的性能和稳定性。Helm作为Kubernetes的包管理工具，简化了应用程序的部署和升级。Helm Charts定义了Kubernetes应用的结构，通过使用Helm，团队能够轻松地共享和部署系统的各个组件。通过选择适当的开发工具和采用自动化的持续集成、持续部署和容器编排技术，银行分布式系统确保了高效、稳定的开发流程，从而为系统的长期发展奠定了坚实的基础。5. 测试策略5.1 单元测试在银行分布式系统的开发中，单元测试是确保代码质量和功能正确性的重要手段。团队采用了JUnit和Mockito等测试框架进行单元测试。JUnit提供了简单而强大的测试框架，而Mockito则用于模拟和注入测试中的依赖关系。通过编写单元测试，团队可以迅速检测和定位代码中的问题，确保每个微服务的基本功能得到正确实现。测试用例涵盖了各种可能的输入和边界条件，以保证系统在各种情况下都能够正常运行。通过引入TestContainers，团队还实现了对外部依赖（如数据库、消息队列等）的集成测试，确保系统与外部环境的协同工作。为了监控测试覆盖率，引入了JaCoCo作为代码覆盖率工具。JaCoCo能够生成详细的测试覆盖报告，帮助团队了解哪些部分的代码得到了覆盖，哪些部分还需要更多的测试。5.2 集成测试在分布式系统中，各个微服务之间的协同工作是至关重要的。为了确保服务之间的契约得到满足，团队采用了Spring Cloud Contract进行微服务的集成测试。这种方式通过定义和共享契约，确保了每个服务的接口在变更时得到适当的测试和验证。为了模拟整个系统的集成环境，使用了Docker Compose。通过Docker Compose，团队可以轻松地创建包含所有微服务的测试环境，以确保各服务在协同工作时能够保持一致的行为。整合Selenium进行用户界面的集成测试，确保系统的端到端功能正常运作。5.3 性能测试在银行分布式系统中，性能是至关重要的考虑因素之一。团队采用Apache JMeter进行系统的性能测试。通过模拟高并发和大数据量的场景，可以评估系统在真实生产环境中的性能表现。同时，引入了Prometheus和Grafana等监控工具，用于分析系统在不同负载下的性能数据。这样的实时监测帮助团队及时发现性能问题，并通过合理的调整系统配置，提高系统的稳定性和性能。此外，利用Locust进行分布式负载测试，模拟大量用户并发访问系统，以验证系统在高负载下的性能稳定性。这一综合的性能测试策略确保了系统在各种负载条件下都能够保持高效的运行。5.4 安全性测试银行分布式系统的安全性是用户信任和系统稳定运行的基石。为了确保系统的安全性，引入了OWASP ZAP等安全性测试工具。这些工具可以模拟各种网络攻击和漏洞，帮助团队发现潜在的安全漏洞，并及时加以修复。通过渗透测试，团队模拟攻击者的行为，评估系统在面对潜在威胁时的表现。定期进行安全性测试，并利用代码静态分析工具（如SonarQube）监测代码中的安全问题，确保系统能够抵御各种恶意行为。综合采用以上测试策略，银行分布式系统不仅在功能上得到了全面的验证，还在性能、安全性等多个方面进行了充分的测试，以确保系统的稳定性、可用性和安全性。6. 安全性考虑6.2 身份认证与授权银行分布式系统采用了OAuth 2.0作为身份验证和授权协议。通过OAuth 2.0，系统能够安全地授权第三方应用程序，确保用户的隐私和数据安全。结合JWT（JSON Web Token），系统实现了令牌的管理，为用户提供了安全而高效的身份认证机制。Spring Security框架被引入用于服务的安全保障。通过Spring Security，团队实施了细粒度的访问控制，只有授权用户才能够访问敏感信息。通过定义角色和权限，系统确保了每个用户在系统中的行为是可控的。引入OpenID Connect作为OAuth 2.0的扩展，为系统提供了对于身份验证的标准化支持。OpenID Connect通过在OAuth 2.0上构建，使得身份认证过程更为安全和灵活。6.3 安全审计安全审计是系统中的一个关键环节，用于实时监测和记录系统中的异常操作和潜在的漏洞。为了实现安全审计，引入了ELK Stack（Elasticsearch, Logstash, Kibana）。ELK Stack通过收集、处理和可视化系统的日志，为团队提供了全面的安全审计功能。通过建立安全审计策略，团队能够对系统的关键操作进行实时监测，及时发现异常行为。通过集成Kibana，团队能够轻松地搜索、分析和可视化系统的日志数据，以便更好地理解和回溯系统中的安全事件。引入安全审计的定期审查流程，帮助团队改进安全策略和措施，确保系统在面对潜在威胁时能够做出及时的响应。6.4 持续监控为了确保系统的安全性不断得到维护，引入了持续监控机制。采用Prometheus和Grafana等监控工具，对系统关键指标进行实时监测，及时发现异常行为和性能问题。建立了警报机制，对系统的关键指标设置阈值，当指标超过阈值时触发报警。这种机制帮助团队在系统发生异常时迅速做出响应，保障系统的正常运行。引入了日志分析工具，如Splunk，进一步优化监控系统的效果。通过分析大量的日志数据，团队可以更深入地理解系统的运行状况，及时发现异常情况，提高系统的安全性。通过上述安全性考虑的措施，银行分布式系统实现了全方位的安全保障。从数据传输到身份认证、审计和监控，系统在多个层面确保了用户数据和系统运行的安全性。这使得系统在金融领域这个对安全性要求极高的领域中能够信任和可靠地运行。7. 总结银行分布式系统的软件开发需要综合考虑架构、设计、开发工具、测试和安全等多个方面。采用先进的技术和最佳实践，可以确保系统具备高性能、高可用性和高安全性。在整个开发过程中，持续优化和团队协作是实现成功的关键。通过合理的技术选型和全面的开发流程，银行分布式系统将更好地满足用户需求并应对不断变化的金融环境。
+2023-12-27 14:51:45.565 INFO [main][StartupInfoLogger.java:50] - Starting Springboot01Application using Java 21.0.1 with PID 5032 (C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01\target\classes started by OkabeRintarou in C:\Users\OkabeRintarou\IdeaProjects\SpringBootDemo\springboot_01)
+2023-12-27 14:51:45.568 INFO [main][SpringApplication.java:653] - No active profile set, falling back to 1 default profile: "default"
+2023-12-27 14:51:46.227 INFO [main][RepositoryConfigurationDelegate.java:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-27 14:51:46.229 INFO [main][RepositoryConfigurationDelegate.java:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-27 14:51:46.255 INFO [main][RepositoryConfigurationDelegate.java:208] - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2023-12-27 14:51:46.644 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port 8080 (http)
+2023-12-27 14:51:46.651 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:51:46.653 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-12-27 14:51:46.654 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-27 14:51:46.698 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-12-27 14:51:46.698 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 1089 ms
+2023-12-27 14:51:47.560 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 14:51:47.568 INFO [main][TomcatWebServer.java:221] - Tomcat started on port 8080 (http) with context path ''
+2023-12-27 14:51:47.579 INFO [main][StartupInfoLogger.java:56] - Started Springboot01Application in 2.269 seconds (process running for 3.014)
+2023-12-27 14:51:51.149 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-27 14:51:51.149 INFO [http-nio-8080-exec-2][FrameworkServlet.java:532] - Initializing Servlet 'dispatcherServlet'
+2023-12-27 14:51:51.151 INFO [http-nio-8080-exec-2][FrameworkServlet.java:554] - Completed initialization in 2 ms
+2023-12-27 14:51:51.379 INFO [http-nio-8080-exec-9][AbstractOpenApiResource.java:401] - Init duration for springdoc-openapi is: 76 ms
+2023-12-27 14:52:01.961 INFO [pool-3-thread-2][ChatServiceImpl.java:53] - Uploaded Filename: test_doc.docx
+2023-12-27 14:52:01.961 INFO [pool-3-thread-3][ChatServiceImpl.java:53] - Uploaded Filename: test_db.docx
+2023-12-27 14:52:02.406 INFO [pool-3-thread-3][ChatServiceImpl.java:59] - User Message: 1 引言随着科学技术的飞速发展，硬件发杂性、多样性和应用的复杂性增加，软件系统的复杂性和规模也在不断增大，软件安全性和质量的保证成为各大公司及个人日益关注的焦点，软件中存在的各种问题也逐渐成为制约我国软件产业发展的主要因素。后期的软件测试工作可以说是为软件产品的完工把好最后一道关，是检验软件产品最为重要的一步。所以软件测试在软件开发中的地位日趋升高、软件测试员的地位也在日益提高。我们先简单的分析一下软件缺陷产生的原因。软件在投入运行之前会先进行软件测试，但运行前的软件测试是根据软件的需求分析、设计规格和编码实现为审定目标。但程序中的故障并一定是由编码引起的，大多数的软件缺陷可能是在系统详细设计阶段、概要设计阶段甚至是在需求分析阶段就存在问题所导致。在软件开发过程中，需求的更改、软件说明书的描述开发小组人员间的交流都可能导致软件程序出现缺陷。而软件测试是最大限度避免软件缺陷产生的最好途径[1]。本文系统的介绍了有关软件测试的各阶段及其用途。2 软件测试的定义软件测试（Software testing）是软件生存期（Software life cycle）中的一个重要阶段，是软件质量保证的关键步骤。通俗地讲，软件测试就是在软件投入运行前，对软件需求分析、设计规格说明和编码进行最终复审的活动。1983年IEEE提出的软件工程术语中给软件测试下的定义是：“使用人工或自动的手段来运行或测定某个软件系统的过程，其目的在于检验它是否满足规定的需求或弄清预期结果与实际结果之间的差别”。这个定义明确指出：软件测试的目的是为了检验软件系统是否满足需求[2]。从用户的角度来看，普遍希望通过软件测试暴露软件中隐藏的错误和缺陷，所以软件测试应该是“为了发现错误而执行程序的过程”。或者说，软件测试应该根据软件开发各阶段的规格说明和程序的内部结构而精心设计一批测试用例（即输入数据及其预期的输出结果），并利用这些测试用例去运行程序，以发现程序错误或缺陷。3 软件测试的生命周期软件测试就是软件在投入运行前，对软件需求分析、设计规格和编码是的最终审查，他是保证软件质量的关键步骤。软件测试是为了发现错误而执行程序并根据软件开发各阶段的规格说明和程序的内部结构而精心设计的测试。下图为一个测试生命周期模型。软件测试不仅仅是对程序的测试，而是贯穿于软件定义和开发的整个过程，因此，软件开发过程中产生的需求分析、概要设计、详细设计以及编码等各个阶段所得到的文档，包括需求规格说明、概要设计规格说明、详细设计规格说明以及源程序，都是软件测试的对象[3]。软件测试在软件生命周期，也就是软件从开发设计、运行、直到结束使用的全过程中，主要横跨单元测试阶段和综合测试阶段，即要在每个模块编写出以后进行测试、在完成单元测试后进行的测试，如集成测试、系统测试、验收测试等。4 软件测试的目的软件测试的目的，第一是确认软件的质量，其一方面是确认软件做了你所期望的事情（Do the right thing），另一方面是确认软件以正确的方式来做了这个事件（Do it right）。第二是提供信息，比如提供给开发人员或程序经理的反馈信息，为风险评估所准备的信息。 第三软件测试不仅是在测试软件产品的本身，而且还包括软件开发的过程。如果一个软件产品开发完成之后发现了很多问题，这说明此软件开发过程很可能是有缺陷的。因此软件测试的第三个目的是保证整个软件开发过程是高质量的。软件质量是由几个方面来衡量的：一、在正确的时间用正确的的方法把一个工作做正确（Doing the right things right at the right time.）。二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。三、质量本身就是软件达到了最开始所设定的要求，而代码的优美或精巧的技巧并不代表软件的高质量（Quality is defined as conformance to requirements, not as “goodness” or “elegance”.）。四、质量也代表着它符合客户的需要（Quality also means “meet customer needs”.）。作为软件测试这个行业，最重要的一件事就是从客户的需求出发，从客户的角度去看产品，客户会怎么去使用这个产品，使用过程中会遇到什么样的问题。只有这些问题都解决了，软件产品的质量才可以说是上去了[4]。测试人员在软件开发过程中的任务：1、寻找Bug；2、避免软件开发过程中的缺陷；3、衡量软件的品质；4、关注用户的需求。总的目标是：确保软件的质量5软件测试方法及流程软件测试方法主要有黑箱测试方法与白箱测试两类。黑箱测试又称功能测试、数据驱动测试或基于规格说明的测试，是在完全不考虑程序内部结构和内部特性的情况下，检查输入与输出之间关系是否符合要求。白箱测试又称结构测试、逻辑驱动测试或基于程序的测试，是在已知程序内部结构的情况下设计测试用例的测试方法。显然，白箱测试适合在单元测试中运用，而在独立测试阶段多采用黑箱测试方法。测试用例（Test case）实际上是对软件运行过程中所有可能存在的目标、运动、行动、环境和结果的描述，是对客观世界的一种抽象。设计测试用例即设计针对特定功能或组合功能的测试方案，并编写成文档。测试用例应该体现软件工程的思想和原则。测试用例的选择既要有一般情况，也应有极限情况以及最大和最小的边界值情况[5]。因为测试的目的是暴露应用软件中隐藏的缺陷，所以在设计选取测试用例和数据时要考虑那些易于发现缺陷的测试用例和数据，结合复杂的运行环境，在所有可能的输入条件和输出条件中确定测试数据，来检查应用软件是否都能产生正确的输出。软件测试所得到的数据经过处理以后，可以用来作为评估软件系统是否满足用户需求的依据。软件测试阶段的信息流如下图所示：6 结语软件系统的规模也在持续扩大,需求日益复杂,对软件质量的要求也越来越高。但现实中软件系统的质量和稳定性却不尽如人意,采用有效的软件测试是保证软件质量、提高软件可靠性的重要手段。软件测试是产品最终交付到用户之前的最后一道防线,有着举足轻重的地位。然而,做好软件测试却是不容易的,一方面你需要同时掌握软件开发的技能和软件测试方面的技能;另一方面,产品必须给予测试充分的独立性和资源保证。软件测试是发现软件中错误而检查文档、运行程序的一个过程。软件测试的概念虽然是和软件编程同时提出的,但发展速度却远远没有编程技术快。近十几年来,随着软件应用的迅速推广,对软件测试也变得迫切需要,各种针对性的测试方法和技术不断出现。软件测试前景被极为看好，我们相信，在不久的将来，软件测试会成为软件行业的主题被越来越多的人更广泛的重视。
+2023-12-27 14:52:02.410 INFO [pool-3-thread-2][ChatServiceImpl.java:59] - User Message: 银行分布式系统软件开发技术文档1. 引言随着银行业务的复杂性和用户需求的不断增加，采用分布式系统架构成为提高系统可靠性、可扩展性和性能的关键策略。本文将深入介绍银行分布式系统软件开发的技术细节，包括系统架构、设计原则、开发工具、测试策略以及安全性考虑等方面。2. 系统架构2.1 微服务架构在银行分布式系统中，微服务架构被选择为核心架构设计原则。每个微服务都被设计为一个独立的业务单元，通过Spring Cloud框架实现独立的部署和运行。Netflix Eureka作为服务发现组件，确保微服务能够动态地注册和发现其他服务，实现服务之间的透明通信。采用微服务的优势之一是强调服务的自治性和单一职责原则。每个微服务专注于解决特定的业务问题，有自己的数据存储、业务逻辑和用户界面。这种分离使得系统更加灵活，允许每个微服务能够独立进化，而不会影响到其他服务。通过RESTful API的通信方式，微服务之间实现了松耦合，进一步提高了系统的可维护性。同时，采用容器化技术，如Docker，将每个微服务封装为一个独立的容器，实现更便捷的部署和扩展。微服务架构的引入，使得银行系统更加敏捷、易于扩展，并且更容易应对业务的快速变化。2.2 分布式事务在银行业务中，分布式事务的一致性至关重要。系统采用Seata作为分布式事务管理器，确保在微服务架构下的事务操作的原子性和一致性。Seata通过全局事务ID协调各个微服务的事务操作，实现对分布式事务的控制。采用两阶段提交协议，确保所有参与者都同意提交事务或者回滚事务。通过引入消息队列（Kafka）来进行异步事务处理，提高了系统的可用性和性能。分布式事务的实现，使得银行系统能够更加安全、可靠地处理用户的复杂金融交易，确保资金的一致性和完整性。2.3 API网关API网关在系统架构中担任着关键的角色，负责请求的路由、过滤和负载均衡。银行系统采用Spring Cloud Gateway作为API网关，通过定义路由规则，将请求引导到相应的微服务。通过统一的网关入口，实现对服务的访问控制和安全检查。API网关不仅提供了对外的服务入口，还通过集成Spring Security来实现身份认证和授权，确保只有合法的请求可以访问系统。通过引入Swagger，API网关为系统提供了自动生成的API文档，简化了对外部服务的调用和理解。这一架构决策使得银行系统能够更加灵活地管理和控制对各个微服务的访问，同时提供了一个集中的入口点，简化了系统的整体结构。通过以上系统架构的设计，银行分布式系统充分利用微服务的优势，实现了更好的可维护性、可扩展性和安全性。这一架构决策契合了银行业务的实际需求，为系统的长期发展提供了坚实的基础。3. 设计原则在银行分布式系统的设计中，遵循一系列关键的设计原则是确保系统可维护性、可扩展性和健壮性的基础。以下是一些重要的设计原则，以及它们在系统设计中的应用。3.1 微服务设计银行分布式系统采用微服务设计原则，每个微服务都专注于单一职责，通过Spring Cloud实现独立部署。这使得系统更易于理解、扩展和维护。微服务之间的通信基于RESTful API，保证了服务之间的松耦合性，允许每个微服务在必要时独立进化。在微服务设计中，还采用领域驱动设计（DDD）的理念，将业务逻辑划分为领域模型。每个微服务负责自己的领域，通过界定上下文边界和明确服务接口，降低了系统中各个组件的耦合度。通过CQRS模式分离读写操作，实现更灵活、高效的数据处理。采用微服务设计原则的银行系统还注重在团队之间建立有效的沟通和协作，确保微服务的设计和演进是团队共同努力的结果。3.2 容错设计容错设计原则在银行分布式系统中起到关键作用，特别是面对复杂的金融业务环境和不可预测的网络故障。系统引入了Hystrix作为容错框架，以确保系统在面对故障时能够提供有限但可控的服务。Hystrix通过实现断路器模式，定期检测服务的可用性，当服务的错误率超过阈值时，自动打开断路器，阻止对服务的请求。这种机制防止了级联故障的发生，提高了系统的鲁棒性。此外，容错设计还包括超时设置、降级策略和熔断器的合理配置。通过这些措施，银行系统在面对各种异常情况时能够保持稳定运行，最大程度地减小了对用户的影响。3.3 异步消息驱动事件驱动架构是银行分布式系统中的另一个设计原则，通过消息队列实现微服务之间的异步消息驱动。Apache Kafka作为消息中间件，扮演着关键的角色，提高了系统的弹性、可伸缩性和可维护性。通过异步消息传递，微服务可以在不同的时间和速率下进行工作，减轻系统的压力。每个微服务既是事件的生产者，又是消费者，实现了服务之间的松耦合。这种架构使系统更具弹性，能够更好地适应不断变化的业务需求。在设计上，还采用了领域事件的概念，将微服务的状态变化通过事件进行发布和订阅。这种模型更好地反映了实际业务流程，增强了系统的灵活性。采用异步消息驱动的设计原则的银行系统还注重在消息的序列化和反序列化过程中的性能和可靠性，以确保系统在高并发场景下依然稳健运行。通过遵循这些设计原则，银行分布式系统实现了更加灵活、稳定和高效的架构，为日益复杂的金融业务提供了坚实的技术基础。4. 开发工具4.1 开发环境在银行分布式系统的开发过程中，选择适当的开发环境是确保高效、协同工作的关键。团队选择了IntelliJ IDEA作为主要的集成开发环境（IDE）。IntelliJ IDEA提供了丰富的功能，包括代码智能提示、代码重构、调试和版本控制等，使得开发者能够更加轻松地编写、调试和维护代码。为了保证团队的代码一致性和版本的管理，采用了Git进行分布式版本控制。通过使用GitFlow工作流模型，团队能够有序地管理分支，确保各个开发者的工作得到高效整合。此外，为了提高Java代码的可读性和简洁性，团队引入了Lombok，它通过注解的方式简化了Java代码的编写，减少了冗余的样板代码。这一选择有效地提高了开发效率，减少了出错的概率。4.2 数据库在银行分布式系统中，数据是至关重要的。团队选择了MySQL作为主要的关系型数据库管理系统（RDBMS）。MySQL具有成熟的社区支持、高性能和可扩展性，非常适合处理金融交易等对数据库性能和事务一致性要求较高的场景。为了更好地管理数据库结构的演化，引入了Flyway作为数据库版本管理工具。Flyway使得数据库的升级和回滚变得更加容易，同时也提供了可追溯的版本历史，方便团队进行数据库的维护和协作。作为缓存数据库，团队选择了Redis。Redis以其快速的内存读写速度和支持丰富数据结构的特性，为系统提供了高性能的缓存服务。通过合理地使用缓存，可以有效减轻数据库的压力，提升系统整体的响应速度。4.3 持续集成与部署为了确保系统的代码质量和稳定性，引入了Jenkins作为持续集成（CI）工具。通过Jenkins，团队可以实现代码的自动构建、测试和部署。CI过程中使用Maven作为构建工具，统一管理项目的依赖关系，确保团队在构建过程中的一致性。Docker技术被广泛应用于系统的自动化部署。Docker容器化技术提供了轻量级、可移植和可扩展的部署方式，使得应用程序和其依赖能够打包为一个独立的容器。这种方式不仅方便了开发环境和生产环境的一致性，同时提高了部署的效率和可靠性。为了进一步提高自动化部署的效率，引入了容器编排工具Kubernetes。Kubernetes能够自动管理和调度容器，实现服务的自动化部署、伸缩和管理。通过Helm管理Kubernetes的应用程序，简化了复杂系统的配置和管理。4.4 容器编排引入Kubernetes作为容器编排工具是银行分布式系统的又一个关键决策。Kubernetes提供了高度可扩展的容器集群管理工具，能够实现对Docker容器的自动部署、扩展和操作。通过Kubernetes，团队可以轻松地管理系统的多个微服务实例，确保系统的高可用性。Kubernetes提供的弹性伸缩机制，使得系统能够根据负载情况自动调整服务的数量，保障了系统的性能和稳定性。Helm作为Kubernetes的包管理工具，简化了应用程序的部署和升级。Helm Charts定义了Kubernetes应用的结构，通过使用Helm，团队能够轻松地共享和部署系统的各个组件。通过选择适当的开发工具和采用自动化的持续集成、持续部署和容器编排技术，银行分布式系统确保了高效、稳定的开发流程，从而为系统的长期发展奠定了坚实的基础。5. 测试策略5.1 单元测试在银行分布式系统的开发中，单元测试是确保代码质量和功能正确性的重要手段。团队采用了JUnit和Mockito等测试框架进行单元测试。JUnit提供了简单而强大的测试框架，而Mockito则用于模拟和注入测试中的依赖关系。通过编写单元测试，团队可以迅速检测和定位代码中的问题，确保每个微服务的基本功能得到正确实现。测试用例涵盖了各种可能的输入和边界条件，以保证系统在各种情况下都能够正常运行。通过引入TestContainers，团队还实现了对外部依赖（如数据库、消息队列等）的集成测试，确保系统与外部环境的协同工作。为了监控测试覆盖率，引入了JaCoCo作为代码覆盖率工具。JaCoCo能够生成详细的测试覆盖报告，帮助团队了解哪些部分的代码得到了覆盖，哪些部分还需要更多的测试。5.2 集成测试在分布式系统中，各个微服务之间的协同工作是至关重要的。为了确保服务之间的契约得到满足，团队采用了Spring Cloud Contract进行微服务的集成测试。这种方式通过定义和共享契约，确保了每个服务的接口在变更时得到适当的测试和验证。为了模拟整个系统的集成环境，使用了Docker Compose。通过Docker Compose，团队可以轻松地创建包含所有微服务的测试环境，以确保各服务在协同工作时能够保持一致的行为。整合Selenium进行用户界面的集成测试，确保系统的端到端功能正常运作。5.3 性能测试在银行分布式系统中，性能是至关重要的考虑因素之一。团队采用Apache JMeter进行系统的性能测试。通过模拟高并发和大数据量的场景，可以评估系统在真实生产环境中的性能表现。同时，引入了Prometheus和Grafana等监控工具，用于分析系统在不同负载下的性能数据。这样的实时监测帮助团队及时发现性能问题，并通过合理的调整系统配置，提高系统的稳定性和性能。此外，利用Locust进行分布式负载测试，模拟大量用户并发访问系统，以验证系统在高负载下的性能稳定性。这一综合的性能测试策略确保了系统在各种负载条件下都能够保持高效的运行。5.4 安全性测试银行分布式系统的安全性是用户信任和系统稳定运行的基石。为了确保系统的安全性，引入了OWASP ZAP等安全性测试工具。这些工具可以模拟各种网络攻击和漏洞，帮助团队发现潜在的安全漏洞，并及时加以修复。通过渗透测试，团队模拟攻击者的行为，评估系统在面对潜在威胁时的表现。定期进行安全性测试，并利用代码静态分析工具（如SonarQube）监测代码中的安全问题，确保系统能够抵御各种恶意行为。综合采用以上测试策略，银行分布式系统不仅在功能上得到了全面的验证，还在性能、安全性等多个方面进行了充分的测试，以确保系统的稳定性、可用性和安全性。6. 安全性考虑6.2 身份认证与授权银行分布式系统采用了OAuth 2.0作为身份验证和授权协议。通过OAuth 2.0，系统能够安全地授权第三方应用程序，确保用户的隐私和数据安全。结合JWT（JSON Web Token），系统实现了令牌的管理，为用户提供了安全而高效的身份认证机制。Spring Security框架被引入用于服务的安全保障。通过Spring Security，团队实施了细粒度的访问控制，只有授权用户才能够访问敏感信息。通过定义角色和权限，系统确保了每个用户在系统中的行为是可控的。引入OpenID Connect作为OAuth 2.0的扩展，为系统提供了对于身份验证的标准化支持。OpenID Connect通过在OAuth 2.0上构建，使得身份认证过程更为安全和灵活。6.3 安全审计安全审计是系统中的一个关键环节，用于实时监测和记录系统中的异常操作和潜在的漏洞。为了实现安全审计，引入了ELK Stack（Elasticsearch, Logstash, Kibana）。ELK Stack通过收集、处理和可视化系统的日志，为团队提供了全面的安全审计功能。通过建立安全审计策略，团队能够对系统的关键操作进行实时监测，及时发现异常行为。通过集成Kibana，团队能够轻松地搜索、分析和可视化系统的日志数据，以便更好地理解和回溯系统中的安全事件。引入安全审计的定期审查流程，帮助团队改进安全策略和措施，确保系统在面对潜在威胁时能够做出及时的响应。6.4 持续监控为了确保系统的安全性不断得到维护，引入了持续监控机制。采用Prometheus和Grafana等监控工具，对系统关键指标进行实时监测，及时发现异常行为和性能问题。建立了警报机制，对系统的关键指标设置阈值，当指标超过阈值时触发报警。这种机制帮助团队在系统发生异常时迅速做出响应，保障系统的正常运行。引入了日志分析工具，如Splunk，进一步优化监控系统的效果。通过分析大量的日志数据，团队可以更深入地理解系统的运行状况，及时发现异常情况，提高系统的安全性。通过上述安全性考虑的措施，银行分布式系统实现了全方位的安全保障。从数据传输到身份认证、审计和监控，系统在多个层面确保了用户数据和系统运行的安全性。这使得系统在金融领域这个对安全性要求极高的领域中能够信任和可靠地运行。7. 总结银行分布式系统的软件开发需要综合考虑架构、设计、开发工具、测试和安全等多个方面。采用先进的技术和最佳实践，可以确保系统具备高性能、高可用性和高安全性。在整个开发过程中，持续优化和团队协作是实现成功的关键。通过合理的技术选型和全面的开发流程，银行分布式系统将更好地满足用户需求并应对不断变化的金融环境。
+2023-12-27 14:55:55.532 INFO [pool-3-thread-2][ChatServiceImpl.java:65] - Response from server: 1. 分布式系统架构：微服务架构、分布式事务管理、API网关等。
+2. 开发工具：IntelliJ IDEA、Git、Kubernetes等。
+3. 设计原则：微服务设计、领域驱动设计、容错设计等。
+4. 性能测试：使用JMeter、Prometheus、Grafana等工具进行性能测试和监控。
+5. 安全性考虑：身份认证与授权、安全审计、持续监控等。
+2023-12-27 14:57:47.862 INFO [ForkJoinPool.commonPool-worker-4][FileUtil.java:124] - {"answer": "", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n2、避免软件开发过程中的缺陷；\n3、衡量软件的品质；\n4、关注用户的需求。\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n（Do it right）。第二是提供信息，比如提供给开发人员或程序经理的反馈信息，为风险评估所准备的信息。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。\n\n"]}
+2023-12-27 14:58:12.396 INFO [pool-3-thread-3][ChatServiceImpl.java:65] - Response from server: 1. 软件测试是软件质量保证的关键步骤，目的是确认软件是否满足需求和提供信息，包括开发过程中的质量保证。2. 软件测试贯穿于整个软件定义和开发过程，包括需求分析、设计规格、编码实现等各个阶段，并需要掌握各种测试方法和技术。3. 软件测试的目的是确保软件质量，包括正确性、符合应用标准、满足客户需求等方面。4. 软件测试员在软件开发过程中的任务是寻找Bug、避免软件开发过程中的缺陷、衡量软件品质和关注用户需求。5. 软件测试方法包括黑箱测试和白箱测试两种，需要设计测试用例来检查输入与输出之间的关系或程序内部结构。6. 软件测试是发现软件中错误的过程，也是检查文档、运行程序的过程，具有举足轻重的地位，但需要掌握软件开发和测试方面的技能，同时需要独立的资源和时间保证。
+2023-12-27 14:59:02.455 INFO [ForkJoinPool.commonPool-worker-7][FileUtil.java:124] - {"answer": "**案例**\n\n问题现象：未提供信息关于软件开发过程中的缺陷、软件品质的衡量、用户需求的关注、应用标准的要求以及安全性的考虑。\n\n问题原因：未知。\n\n措施：补充完善软件开发过程中的缺陷、软件品质的衡量、用户需求的关注、应用标准的要求以及安全性的考虑，确保软件能够满足用户的需求，符合应用标准，并具备良好的安全性。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n2、避免软件开发过程中的缺陷；\n3、衡量软件的品质；\n4、关注用户的需求。\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n（Do it right）。第二是提供信息，比如提供给开发人员或程序经理的反馈信息，为风险评估所准备的信息。\n\n"]}
+2023-12-27 14:59:11.245 INFO [ForkJoinPool.commonPool-worker-3][FileUtil.java:124] - {"answer": "**案例**\n\n问题现象：微服务架构存在分布式事务管理问题。\n\n问题原因：微服务架构中的服务之间缺乏原子性，导致在分布式事务中出现脏读和不可重复读等问题。\n\n措施：采用两阶段提交（2PC）或三阶段提交（3PC）等分布式事务管理技术，确保微服务之间的原子性，避免分布式事务问题。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n即要在每个模块编写出以后进行测试、在完成单元测试后进行的测试，如集成测试、系统测试、验收测试等。\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n软件系统的复杂性和规模也在不断增大，软件安全性和质量的保证成为各大公司及个人日益关注的焦点，\n\n"]}
+2023-12-27 15:00:18.023 INFO [ForkJoinPool.commonPool-worker-6][FileUtil.java:124] - {"answer": "**案例**\n\n问题现象：在性能测试过程中，发现程序的响应时间较长，无法满足用户需求。\n\n问题原因：程序在处理大量数据时，性能瓶颈导致响应时间较长。\n\n措施：通过优化程序代码，减少数据处理量，提高程序性能，以满足用户需求。\n\n**案例**\n\n问题现象：在性能测试过程中，发现程序的资源使用率过高，导致系统资源紧张。\n\n问题原因：程序在处理大量数据时，资源争抢导致资源使用率过高。\n\n措施：通过合理分配资源，优化程序设计，降低资源争抢，以保证系统资源稳定。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n并利用这些测试用例去运行程序，以发现程序错误或缺陷。\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n4、关注用户的需求。\n总的目标是：确保软件的质量\n5软件测试方法及流程\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n3、衡量软件的品质；\n4、关注用户的需求。\n总的目标是：确保软件的质量\n\n"]}
+2023-12-27 15:00:24.380 INFO [ForkJoinPool.commonPool-worker-5][FileUtil.java:124] - {"answer": "**案例**\n\n问题现象：软件开发过程中出现缺陷，导致软件品质不佳。\n\n问题原因：未遵循设计原则，如微服务设计、领域驱动设计、容错设计等。\n\n措施：在软件开发过程中，遵循设计原则，确保软件具有较高的品质和可维护性、可测试性。\n\n**案例**\n\n问题现象：软件在不同的操作环境下出现异常行为。\n\n问题原因：未考虑不同国家用户的不同操作习惯和要求，以及项目工程中的可维护性、可测试性等要求。\n\n措施：在软件开发过程中，充分考虑不同国家的用户需求，并遵循相关应用标准，确保软件具有良好的可维护性、可测试性。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n2、避免软件开发过程中的缺陷；\n3、衡量软件的品质；\n4、关注用户的需求。\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n二、符合一些应用标准的要求，比如不同国家的用户不同的操作习惯和要求，项目工程中的可维护性、可测试性等要求。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n包括需求规格说明、概要设计规格说明、详细设计规格说明以及源程序，都是软件测试的对象[3]。\n\n"]}
+2023-12-27 15:00:43.273 INFO [ForkJoinPool.commonPool-worker-4][FileUtil.java:124] - {"answer": "**案例**\n\n问题现象：软件测试过程中出现大量错误和缺陷。\n\n问题原因：软件测试员对软件需求和功能理解不足，测试用例设计不全面，导致在测试过程中发现不了问题。同时，测试员对软件开发过程中的变更管理不规范，导致测试结果不准确。\n\n措施：加强软件测试员对需求和功能的培训，确保他们充分理解软件需求；制定全面的测试用例，覆盖软件的各个功能模块；建立严格的变更管理制度，确保测试结果的准确性。", "docs": ["出处 [1] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n4、关注用户的需求。\n总的目标是：确保软件的质量\n5软件测试方法及流程\n\n", "出处 [2] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n软件测试就是软件在投入运行前，对软件需求分析、设计规格和编码是的最终审查，他是保证软件质量的关键步骤。\n\n", "出处 [3] [test_db.docx](/knowledge_base/download_doc?knowledge_base_name=test1&file_name=test_db.docx) \n\n软件测试的目的，第一是确认软件的质量，其一方面是确认软件做了你所期望的事情（Do the right thing），另一方面是确认软件以正确的方式来做了这个事件\n\n"]}
